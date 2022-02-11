@@ -11,7 +11,7 @@
     <properties>
         <kotlin.version>1.2.51</kotlin.version>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
-        <vertx.version>3.5.2</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
     </properties>
 
     <build>
